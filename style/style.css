@@ -1,0 +1,21 @@
+.SignUp .ForgotPassword .Login{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+  }
+
+
+
+  .loginButton {
+    margin-left: 10px
+}
+
+.forgetButton {
+    margin-left: 10px
+}
+
+
+
+input {
+    margin-top: 20px;
+}
